@@ -1,5 +1,2 @@
 # Cybersecurity-Portfolio
-This is the online portfolio for Brad Lair.
-Please browse the various projects and reports on here that was created to demonstrate hands on keyboard knowledge!
-
-The first pieces of the portfolio can be found in the reports branch.
+Thank you for browsing to the reports branch! There exist many different types of reports here, all designed to demonstrate knowledge in various areas of cybersecurity!
